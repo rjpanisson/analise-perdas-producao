@@ -70,20 +70,19 @@ permitindo à liderança e gestão:
 ## 📸 Screenshots
 
 ### Visão Geral
-![Visão Geral](screenshots/01-visao-geral.png)
+![Visão Geral](visao-geral.PNG)
 
 ### Análise de Defeitos
-![Defeitos](screenshots/02-defeitos.png)
+![Defeitos](defeitos.PNG)
 
 ### Análise por Peça com KPI Dinâmico
-![Peças](screenshots/03-pecas.png)
+![Peças](peças.PNG)
 
 ### Análise por Setor com Heatmap
-![Setores](screenshots/04-setores.png)
+![Setores](setores.PNG)
 
 ### Tendência e Acumulado
-![Tendência](screenshots/05-tendencia.png)
-
+![Tendência](tendencia.PNG)
 ---
 
 ## 👤 Autor
